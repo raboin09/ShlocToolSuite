@@ -56,16 +56,14 @@ FString UShlocUtils::GetCurrentLine(const FString& InString)
 		return ChoppedString;
 	}
 	return InString;
-}
+}  
 
 FString UShlocUtils::GenerateNumberOfNewlinesString(const int32 NumNewlines)
 {
 	FString RetString = "";
 	for (int i = 0; i < NumNewlines; i++) {
 		RetString.Append("\n");
-		//RetString.Append(LINE_TERMINATOR, NumNewlines);
 	}
-	//RetString.Append("_END");
 	return RetString;
 }
 
