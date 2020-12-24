@@ -16,7 +16,7 @@ UFont* UShlocUtils::LoadFontFromFilePath(FString InPath, FString InName, ABasePl
 	UFontFace* FontFace = NewObject<UFontFace>();
 	FontFace->LoadingPolicy = EFontLoadingPolicy::Inline;
 	FontFace->FontFaceData = FFontFaceData::MakeFontFaceData(Controller->LoadBytesFromFile(InPath, InName));
-
+	
 	UFont* Font = NewObject<UFont>();
 	Font->FontCacheType = EFontCacheType::Runtime;
 	FTypefaceEntry& TypefaceEntry = Font->CompositeFont.DefaultTypeface.Fonts[Font->CompositeFont.DefaultTypeface.Fonts.AddDefaulted()];
