@@ -1,1 +1,0 @@
-Clipping detection on widgets to calculate width overflow?
