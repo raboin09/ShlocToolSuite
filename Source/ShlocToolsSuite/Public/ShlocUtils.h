@@ -30,4 +30,17 @@ public:
 
 	UFUNCTION(BlueprintCallable)
 		static FString GenerateHashOnString(const FString& InString);
+
+	UFUNCTION(BlueprintCallable)
+		static FString GetCurrentLine(const FString& InString);
+
+	UFUNCTION(BlueprintCallable)
+		static FString GenerateNumberOfNewlinesString(const int32 NumNewlines);
+
+	UFUNCTION(BlueprintCallable, BlueprintPure)
+		static FString GetLineTerminator();
+
+	UFUNCTION(BlueprintCallable, BlueprintPure)
+		static float GetFontMaxHeight(UObject* InFont);
+
 };
