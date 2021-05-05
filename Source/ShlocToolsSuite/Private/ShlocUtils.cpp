@@ -16,7 +16,7 @@ UFont* UShlocUtils::LoadFontFromFilePath(FString InPath, FString InName, ABasePl
 	UFontFace* FontFace = NewObject<UFontFace>();
 	FontFace->LoadingPolicy = EFontLoadingPolicy::Inline;
 	FontFace->FontFaceData = FFontFaceData::MakeFontFaceData(Controller->LoadBytesFromFile(InPath, InName));
-
+	
 	UFont* Font = NewObject<UFont>();
 	Font->FontCacheType = EFontCacheType::Runtime;
 	FTypefaceEntry& TypefaceEntry = Font->CompositeFont.DefaultTypeface.Fonts[Font->CompositeFont.DefaultTypeface.Fonts.AddDefaulted()];
@@ -56,16 +56,14 @@ FString UShlocUtils::GetCurrentLine(const FString& InString)
 		return ChoppedString;
 	}
 	return InString;
-}
+}  
 
 FString UShlocUtils::GenerateNumberOfNewlinesString(const int32 NumNewlines)
 {
 	FString RetString = "";
 	for (int i = 0; i < NumNewlines; i++) {
 		RetString.Append("\n");
-		//RetString.Append(LINE_TERMINATOR, NumNewlines);
 	}
-	//RetString.Append("_END");
 	return RetString;
 }
 
