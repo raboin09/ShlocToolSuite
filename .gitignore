@@ -2,6 +2,7 @@ Projects/**
 Data/**
 Fonts/**
 Build/**
+.idea/
 
 # Prerequisites
 *.d
