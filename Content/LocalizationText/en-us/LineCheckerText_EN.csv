@@ -1,0 +1,75 @@
+Key,SourceString,Comment
+LC_LineBreak_NO,Auto-linebreak: No,Batch Checker
+LC_LineBreak_YES,Auto-linebreak: Yes,Batch Checker
+LC_DisplayingResultsForFilename,Displaying results for {Filename} ,Batch Checker
+LC_ShowOverflowsOnly,Show overflows only,Batch Checker
+LC_NumberOfLines,No. of Lines: {Lines},Batch Checker {Lines} shouldn't be changed as my code inputs the number into here
+LC_BrowseButton,Browse,Batch Checker and New Project buttons
+LC_CheckAnotherFile,Check Another File,Batch Checker Menu dropdown
+LC_WidthPixelspx,Width: {Pixels}px,Batch Checker the {Pixels} shouldn't be changed as my code relies on this
+LC_SelectFileToCheckForOverflows,Select file to check for overflows:,Batch Checker The excel file to be checked
+LC_SelectWorksheetToBeChecked,Select worksheet to be checked:,Batch Checker the excel worksheet to be checked
+LC_SelectColumnContainingText,Select column containing text to be checked:,Batch Checker the literal text to be checked
+LC_SelectColumnContainingUIkey,Select column containing UI key:,Batch Checker the UI element we are using to check the text width against
+LC_SelectColumnContainingTheTextID,Select column containing the text ID,Batch Checker the unique ID of the text
+LC_LineBreak_Question,Auto-linebreak?,Live Editor
+LC_CanUseTags,Can use tags:,Live Editor
+LC_Font,Font:,Live Editor
+LC_InputNumLines,Input No. of Lines:,Live Editor
+LC_InputPixelWidth,Input pixel width:,Live Editor
+LC_SearchElementsByName,Search elements by name,Live Editor
+LC_SelectedElement,Selected Element:,Live Editor
+LC_TextInput,Text Input,Live Editor
+LC_TextPreview,Text Preview,Live Editor
+LC_LoadProject,Load Project,Main Menu
+LC_NewProject,New Project,Main Menu
+LC_ChangeProjectName,Change project name:,Manage Settings
+LC_ChangesSaved,Changes Saved!,Manage Settings
+LC_Delete,Delete,Manage Settings
+LC_EditTags,Edit Tags,Manage Settings
+LC_EditUISettings,Edit UI Settings,Manage Settings
+LC_ElementName,Element Name,Manage Settings
+LC_FontName,Font Name,Manage Settings
+LC_FontSize,Font Size,Manage Settings
+LC_GotoProjectHome,Go to Project Home,Manage Settings
+LC_InputFontname,Input Font name,Manage Settings
+LC_InputFontsize,Input Font size,Manage Settings
+LC_InputElementName,Input element name,Manage Settings
+LC_ManualEditMode,Manual Edit Mode,Manage Settings
+LC_SearchElementsHere,Search Elements here,Manage Settings
+LC_Tags,Tags,Manage Settings
+LC_UploadFontFile,Upload Font File,Manage Settings
+LC_UploadNewFile,Upload New File,Manage Settings
+LC_Uploadedfiles,Uploaded files:,Manage Settings
+LC_SaveChanges,Save Changes,Manage Settings 
+LC_BackButton,Back,Manage Settings buttons
+LC_InputTextReplacement,Input text replacement (can be empty),Manage Settings For tags and their replacement
+LC_AutoWrap,Auto-wrap,Manage Settings List of UI Entries
+LC_Tag,Tag,Manage Settings tag editor
+LC_InputNewTag,Input new tag,Manage Settings tag label
+LC_LongestString,Longest String,Manage Settings this is the text that replaces a tag (same screen as LC_InputNewTag)
+LC_Lines,Lines,Manage Settings UI Element data
+LC_Width,Width,Manage Settings UI Settings
+LC_ChangeProject,Change Project,Menu dropdown
+LC_ProjectHome,Project Home,Menu dropdowns
+LC_ConfirmButton,Confirm,Multiple locations used
+LC_CreateNewProject,Create New Project,New Project
+LC_AllDone,All done!,New Project done
+LC_EditFontLocation,Edit Font Location,New Project opens windows file browser 
+LC_CopySettingsFromExistingProject,Copy settings from existing project,New Project Step A
+LC_ProjectName,Project Name,New Project Step A
+LC_ProjectNameAlreadyExists,Project name already exists!,New Project Step A
+LC_ProjectNameCannotBeEmpty,Project name cannot be empty!,New Project Step A
+LC_ThereAreNoValidProjects,There are no valid projects to select!,New Project Step A
+LC_TypeProjectNameHere,Type project name here,New Project Step A
+LC_NoSpecialCharacters,No special characters allowed!,New Project Step A naming a project
+LC_TheFollowingFontsDetected,The following fonts were detected:,New Project Step B
+LC_UISettings,UI Settings,New Project Step B
+LC_UploadUIfiles,Upload UI files,New Project Step B
+LC_SkipUpload,Skip Upload,New Project Step B and C
+LC_Uploadtagfiles,Upload tag files,New Project Step C
+LC_LiveEditor,Live Editor,Project Home
+LC_ManageProjectSettings,Manage Project Settings,Project Home
+LC_WarningNoUIData,Warning: No uploaded UI data detected,Project Home
+LC_BatchCheckerButton,Batch Checker,Project Home button
+LC_ManageProjectSettingsInserted,Manage {ProjectName} project settings,Manage Settings

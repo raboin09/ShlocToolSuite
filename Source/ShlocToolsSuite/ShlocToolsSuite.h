@@ -4,3 +4,17 @@
 
 #include "CoreMinimal.h"
 
+#include "Modules/ModuleManager.h"
+
+DECLARE_LOG_CATEGORY_EXTERN(LogShlocCore, Log, All);
+
+class FShlocToolsSuite : public FDefaultGameModuleImpl
+{
+public:
+	virtual void StartupModule() override;
+	virtual void ShutdownModule() override;
+	virtual bool IsGameModule() const override
+	{
+		return true;
+	}
+};
