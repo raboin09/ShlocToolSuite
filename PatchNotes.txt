@@ -1,0 +1,2 @@
+1. UI tweaks and adjustments (most notably, centering the input text in the Live Editor)
+2. Adding the Japanese translations (the current iteration isn't running the translations

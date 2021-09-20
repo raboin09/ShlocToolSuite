@@ -1,0 +1,6 @@
+Manage Settings- Manage X project settings
+Manage Settings- UI Settings
+Manage Settings- Tag Settings
+Manage Settings- Manual Edit Mode
+Live Editor- Blah : pixels(px)
+Batch Checker Display: Stats display 

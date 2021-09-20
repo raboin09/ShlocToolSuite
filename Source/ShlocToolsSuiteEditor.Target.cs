@@ -8,7 +8,7 @@ public class ShlocToolsSuiteEditorTarget : TargetRules
 	public ShlocToolsSuiteEditorTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.V1;
 		ExtraModuleNames.AddRange( new string[] { "ShlocToolsSuite" } );
 	}
 }

@@ -8,7 +8,7 @@ public class ShlocToolsSuiteTarget : TargetRules
 	public ShlocToolsSuiteTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.V1;
 		ExtraModuleNames.AddRange( new string[] { "ShlocToolsSuite" } );
 	}
 }

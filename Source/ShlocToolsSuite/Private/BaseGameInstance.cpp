@@ -8,6 +8,7 @@ void UBaseGameInstance::Shutdown()
 		DeleteTempDir();
 	}
 	Super::Shutdown();
+	
 }
 
 void UBaseGameInstance::DeleteTempDir()

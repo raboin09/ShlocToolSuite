@@ -1,0 +1,708 @@
+﻿# Game Japanese (Japan) translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2021-07-25 22:59\n"
+"PO-Revision-Date: 2021-07-25 22:59\n"
+"Language-Team: \n"
+"Language: ja-JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	0322233443185741B4C7E9A1A64E8AA5
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_2159.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_2159.Text
+msgctxt ",0322233443185741B4C7E9A1A64E8AA5"
+msgid "Font:"
+msgstr "フォント："
+
+#. Key:	0349494C43968EF916299586F0F16AAA
+#. SourceLocation:	/Game/UI/BatchChecker/BP_BatchChecker.BP_BatchChecker_C:WidgetTree.BatchLabelBlock.Text
+#: /Game/UI/BatchChecker/BP_BatchChecker.BP_BatchChecker_C:WidgetTree.BatchLabelBlock.Text
+msgctxt ",0349494C43968EF916299586F0F16AAA"
+msgid "Displaying results for {FileName.xls}..."
+msgstr "{Filename}  の結果を表示しています "
+
+#. Key:	035D331142B6752730CBA1B56BCA3009
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepB.BP_NewProject_StepB_C:WidgetTree.TextBlock_43.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepB.BP_NewProject_StepB_C:WidgetTree.TextBlock_43.Text
+msgctxt ",035D331142B6752730CBA1B56BCA3009"
+msgid "Upload UI files"
+msgstr "UI ファイルをアップロード"
+
+#. Key:	05AF6F42492AA4F28A5CC192E1B2C5E9
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_SettingsScroll.BP_SettingsScroll_C:WidgetTree.TextBlock_200.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_SettingsScroll.BP_SettingsScroll_C:WidgetTree.TextBlock_200.Text
+msgctxt ",05AF6F42492AA4F28A5CC192E1B2C5E9"
+msgid "Manual Edit Mode"
+msgstr ""
+
+#. Key:	05E49B494D33C6FA98CCBA8D48EC2B86
+#. SourceLocation:	/Game/UI/ProjectHome/BP_ProjectHome.BP_ProjectHome_C:WidgetTree.BatchCheckerText.Text
+#: /Game/UI/ProjectHome/BP_ProjectHome.BP_ProjectHome_C:WidgetTree.BatchCheckerText.Text
+msgctxt ",05E49B494D33C6FA98CCBA8D48EC2B86"
+msgid "Batch Checker"
+msgstr "バッチチェッカー"
+
+#. Key:	0A3A3C5B42AA487CCF71FAA85A74DDD8
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepB.BP_NewProject_StepB_C:WidgetTree.TextBlock_386.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepB.BP_NewProject_StepB_C:WidgetTree.TextBlock_386.Text
+msgctxt ",0A3A3C5B42AA487CCF71FAA85A74DDD8"
+msgid "Skip Upload"
+msgstr "アップロードをスキップ"
+
+#. Key:	0DB1DD144D49FAF47610169DE76B19EB
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_Tags_ManualEditWidget.BP_Tags_ManualEditWidget_C:WidgetTree.TextBlock_147.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_Tags_ManualEditWidget.BP_Tags_ManualEditWidget_C:WidgetTree.TextBlock_147.Text
+msgctxt ",0DB1DD144D49FAF47610169DE76B19EB"
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#. Key:	1100AAD34B0368F632F62BA7397D1EBD
+#. SourceLocation:	/Game/UI/MainMenu/BP_ListProjectsWindow.BP_ListProjectsWindow_C:WidgetTree.ConfirmProjectButtonText.Text
+#: /Game/UI/MainMenu/BP_ListProjectsWindow.BP_ListProjectsWindow_C:WidgetTree.ConfirmProjectButtonText.Text
+msgctxt ",1100AAD34B0368F632F62BA7397D1EBD"
+msgid "Confirm"
+msgstr "確認"
+
+#. Key:	114843734B6B6C4D4D3BB59DB668ED91
+#. SourceLocation:	/Game/UI/ProjectHome/BP_BatchCheckerSelectorWidgets.BP_BatchCheckerSelectorWidgets_C:WidgetTree.TextBlock_136.Text
+#: /Game/UI/ProjectHome/BP_BatchCheckerSelectorWidgets.BP_BatchCheckerSelectorWidgets_C:WidgetTree.TextBlock_136.Text
+msgctxt ",114843734B6B6C4D4D3BB59DB668ED91"
+msgid "Browse"
+msgstr "ブラウズ"
+
+#. Key:	124BC78A4197C4E58C00D7B964B64164
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock_1.Text
+msgctxt ",124BC78A4197C4E58C00D7B964B64164"
+msgid "Width"
+msgstr "幅"
+
+#. Key:	1ED5464D4A1192556756EC99581861AD
+#. SourceLocation:	/Game/UI/ProjectHome/BP_ProjectHome.BP_ProjectHome_C:WidgetTree.LiveEditorText.Text
+#: /Game/UI/ProjectHome/BP_ProjectHome.BP_ProjectHome_C:WidgetTree.LiveEditorText.Text
+msgctxt ",1ED5464D4A1192556756EC99581861AD"
+msgid "Live Editor"
+msgstr "ライブエディター"
+
+#. Key:	30A84E6041347BD86FC4C6A8115B8612
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProjectWidget.BP_NewProjectWidget_C:WidgetTree.Step_C_Text.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProjectWidget.BP_NewProjectWidget_C:WidgetTree.Step_C_Text.Text
+msgctxt ",30A84E6041347BD86FC4C6A8115B8612"
+msgid "Tags"
+msgstr "タグ"
+
+#. Key:	368BC37F411C30D4F4E0B98E1AE4A712
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_SettingsScroll.BP_SettingsScroll_C:WidgetTree.TextBlock_64.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_SettingsScroll.BP_SettingsScroll_C:WidgetTree.TextBlock_64.Text
+msgctxt ",368BC37F411C30D4F4E0B98E1AE4A712"
+msgid "Delete"
+msgstr "削除"
+
+#. Key:	377F7C6046DDDC6AD85647AA180D44D7
+#. SourceLocation:	/Game/UI/ProjectHome/BP_ProjectHome.BP_ProjectHome_C:GetProjectName [Script Bytecode]
+#: /Game/UI/ProjectHome/BP_ProjectHome.BP_ProjectHome_C:GetProjectName [Script Bytecode]
+msgctxt ",377F7C6046DDDC6AD85647AA180D44D7"
+msgid "{Project Name}"
+msgstr ""
+
+#. Key:	3854E8844DE5ADC977B3149F2B85FF4A
+#. SourceLocation:	/Game/UI/ProjectHome/BP_BatchCheckColumnSelector.BP_BatchCheckColumnSelector_C:WidgetTree.TextBlock.Text
+#: /Game/UI/ProjectHome/BP_BatchCheckColumnSelector.BP_BatchCheckColumnSelector_C:WidgetTree.TextBlock.Text
+msgctxt ",3854E8844DE5ADC977B3149F2B85FF4A"
+msgid "Select worksheet to be checked:"
+msgstr "チェックするワークシートを選択："
+
+#. Key:	3B181A134FD74D1E5EE49399999CC532
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.PixelsTotalTextBlock.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.PixelsTotalTextBlock.Text
+msgctxt ",3B181A134FD74D1E5EE49399999CC532"
+msgid "1400"
+msgstr ""
+
+#. Key:	3C5042FD4E7F42E2038030A86BD96830
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_3435.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_3435.Text
+msgctxt ",3C5042FD4E7F42E2038030A86BD96830"
+msgid "Auto-linebreak?"
+msgstr "自動改行しますか？"
+
+#. Key:	406663E5483E90E9C2D3A98623B8B978
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:ExecuteUbergraph_BP_NewProject_StepA [Script Bytecode]
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:ExecuteUbergraph_BP_NewProject_StepA [Script Bytecode]
+msgctxt ",406663E5483E90E9C2D3A98623B8B978"
+msgid "No special characters allowed!"
+msgstr "特殊文字は使用できません！"
+
+#. Key:	407B4D29428924348F39B3A6B89E1EC5
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UI_ManualEditWidget.BP_UI_ManualEditWidget_C:WidgetTree.TextBlock_147.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_UI_ManualEditWidget.BP_UI_ManualEditWidget_C:WidgetTree.TextBlock_147.Text
+msgctxt ",407B4D29428924348F39B3A6B89E1EC5"
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#. Key:	40B57CF64A40F23921E7E9A7C5DC1721
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.ProjectNameLabelText.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.ProjectNameLabelText.Text
+msgctxt ",40B57CF64A40F23921E7E9A7C5DC1721"
+msgid "Project {Insert Project Name} Settings"
+msgstr "プロジェクト設定 {ProjectName} を管理"
+
+#. Key:	40FB96184AC21708B995FD880627F9C6
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_2.Text
+msgctxt ",40FB96184AC21708B995FD880627F9C6"
+msgid "Width (Pixels)"
+msgstr "幅：{Pixels}px"
+
+#. Key:	410655B44D58E042BBBB068B05D4BC8E
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.BackButtonTextBlock.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.BackButtonTextBlock.Text
+msgctxt ",410655B44D58E042BBBB068B05D4BC8E"
+msgid "Back"
+msgstr "戻る"
+
+#. Key:	41945A7E4D50C90277D97FA68FDC2F07
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UISingleEntry.BP_UISingleEntry_C:WidgetTree.LinesTextBox.HintText
+#: /Game/UI/ProjectHome/ManageSettings/BP_UISingleEntry.BP_UISingleEntry_C:WidgetTree.LinesTextBox.HintText
+msgctxt ",41945A7E4D50C90277D97FA68FDC2F07"
+msgid "Lines"
+msgstr "行"
+
+#. Key:	435012AD4084825A038A16B5ADF6C622
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:WidgetTree.TextBlock_387.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:WidgetTree.TextBlock_387.Text
+msgctxt ",435012AD4084825A038A16B5ADF6C622"
+msgid "Copy settings from existing project"
+msgstr "既存プロジェクトから設定をコピー"
+
+#. Key:	4422C9E045F4E23570FC7E8438AC7F9B
+#. SourceLocation:	/Game/UI/ProjectHome/BP_BatchCheckColumnSelector.BP_BatchCheckColumnSelector_C:WidgetTree.ColumnInputTextBlock.Text
+#: /Game/UI/ProjectHome/BP_BatchCheckColumnSelector.BP_BatchCheckColumnSelector_C:WidgetTree.ColumnInputTextBlock.Text
+msgctxt ",4422C9E045F4E23570FC7E8438AC7F9B"
+msgid "Select column containing text to be checked:"
+msgstr "チェックするテキストを含む列を選択："
+
+#. Key:	47C7A9014A3083B4C4C8D2A1A25E24AE
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_Tags_ListOfEntries.BP_Tags_ListOfEntries_C:WidgetTree.SearchTextBox.HintText
+#: /Game/UI/ProjectHome/ManageSettings/BP_Tags_ListOfEntries.BP_Tags_ListOfEntries_C:WidgetTree.SearchTextBox.HintText
+msgctxt ",47C7A9014A3083B4C4C8D2A1A25E24AE"
+msgid "Search Elements here"
+msgstr "ここで要素を検索"
+
+#. Key:	4BF8A94641CD71AAFCC636B3F7D18893
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepC.BP_NewProject_StepC_C:WidgetTree.TextBlock_386.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepC.BP_NewProject_StepC_C:WidgetTree.TextBlock_386.Text
+msgctxt ",4BF8A94641CD71AAFCC636B3F7D18893"
+msgid "Skip Upload"
+msgstr "アップロードをスキップ"
+
+#. Key:	4C089C424E5D1EC6A23EAEBDE62AF461
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepC.BP_NewProject_StepC_C:WidgetTree.TextBlock_43.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepC.BP_NewProject_StepC_C:WidgetTree.TextBlock_43.Text
+msgctxt ",4C089C424E5D1EC6A23EAEBDE62AF461"
+msgid "Upload tag files"
+msgstr "タグファイルをアップロード"
+
+#. Key:	4C90D58044A13F128B6DC88539E6C5D3
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UISingleEntry.BP_UISingleEntry_C:WidgetTree.WidthTextBox.HintText
+#: /Game/UI/ProjectHome/ManageSettings/BP_UISingleEntry.BP_UISingleEntry_C:WidgetTree.WidthTextBox.HintText
+msgctxt ",4C90D58044A13F128B6DC88539E6C5D3"
+msgid "Width"
+msgstr "幅"
+
+#. Key:	5029DEA7438B7F89AEABC8A16DE3236F
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UISingleEntry.BP_UISingleEntry_C:WidgetTree.FontSizeTextBox.HintText
+#: /Game/UI/ProjectHome/ManageSettings/BP_UISingleEntry.BP_UISingleEntry_C:WidgetTree.FontSizeTextBox.HintText
+msgctxt ",5029DEA7438B7F89AEABC8A16DE3236F"
+msgid "Input Font size"
+msgstr "フォントサイズを入力"
+
+#. Key:	50F9AE6A4AC76C9F3267E5BDFCBC0329
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:WidgetTree.ProjectWarningText.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:WidgetTree.ProjectWarningText.Text
+msgctxt ",50F9AE6A4AC76C9F3267E5BDFCBC0329"
+msgid "There are no valid projects to select!"
+msgstr "選択できる有効なプロジェクトがありません！"
+
+#. Key:	5190E281417F3981F580B6B595197D71
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock_448.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock_448.Text
+msgctxt ",5190E281417F3981F580B6B595197D71"
+msgid "Element Name"
+msgstr "要素名"
+
+#. Key:	61D4B22542E41703A84910B6F66120F4
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.PixelWidthTextInput.HintText
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.PixelWidthTextInput.HintText
+msgctxt ",61D4B22542E41703A84910B6F66120F4"
+msgid "Input pixel width"
+msgstr "ピクセル幅を入力："
+
+#. Key:	62FCC2CF43C9BE30B827D59E01C8BD11
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock_3.Text
+msgctxt ",62FCC2CF43C9BE30B827D59E01C8BD11"
+msgid "Font Name"
+msgstr "フォント名"
+
+#. Key:	6575AC38495949BD9077358E527F8508
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:ExecuteUbergraph_BP_NewProject_StepA [Script Bytecode]
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:ExecuteUbergraph_BP_NewProject_StepA [Script Bytecode]
+msgctxt ",6575AC38495949BD9077358E527F8508"
+msgid "Project name already exists!"
+msgstr "すでに使用されているプロジェクト名です！"
+
+#. Key:	68F79702480536C663951EAB79BEFBAF
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_Tags_ListOfEntries.BP_Tags_ListOfEntries_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_Tags_ListOfEntries.BP_Tags_ListOfEntries_C:WidgetTree.TextBlock_4.Text
+msgctxt ",68F79702480536C663951EAB79BEFBAF"
+msgid "Longest String"
+msgstr "最長の文字列"
+
+#. Key:	6E06AB364E53C47E44C27999B1D80696
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_SettingsScroll.BP_SettingsScroll_C:WidgetTree.TextBlock_116.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_SettingsScroll.BP_SettingsScroll_C:WidgetTree.TextBlock_116.Text
+msgctxt ",6E06AB364E53C47E44C27999B1D80696"
+msgid "Upload New File"
+msgstr "新規ファイルをアップロード"
+
+#. Key:	6FEFEF8D455FBF47FB9C49857298E1ED
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProjectWidget.BP_NewProjectWidget_C:WidgetTree.Step_B_Text.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProjectWidget.BP_NewProjectWidget_C:WidgetTree.Step_B_Text.Text
+msgctxt ",6FEFEF8D455FBF47FB9C49857298E1ED"
+msgid "UI Settings"
+msgstr "UI 設定"
+
+#. Key:	70921501417546FA775FB9A0A91D7B75
+#. SourceLocation:	/Game/UI/ProjectHome/BP_BatchCheckColumnSelector.BP_BatchCheckColumnSelector_C:WidgetTree.ColumnKeyTextBlock.Text
+#: /Game/UI/ProjectHome/BP_BatchCheckColumnSelector.BP_BatchCheckColumnSelector_C:WidgetTree.ColumnKeyTextBlock.Text
+msgctxt ",70921501417546FA775FB9A0A91D7B75"
+msgid "Select column containing UI key:"
+msgstr "UI 要素を含む列を選択："
+
+#. Key:	70AF095D4F31BDA60A49308CC27EF3B9
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_ChangesSaved.BP_ChangesSaved_C:WidgetTree.TextBlock_165.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_ChangesSaved.BP_ChangesSaved_C:WidgetTree.TextBlock_165.Text
+msgctxt ",70AF095D4F31BDA60A49308CC27EF3B9"
+msgid "Go to Project Home"
+msgstr "プロジェクトホームへ"
+
+#. Key:	7295A90340732C96306C25918F4DB01F
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:ExecuteUbergraph_BP_NewProject_StepA [Script Bytecode]
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:ExecuteUbergraph_BP_NewProject_StepA [Script Bytecode]
+msgctxt ",7295A90340732C96306C25918F4DB01F"
+msgid "Project name cannot be empty!"
+msgstr "ピクセル幅を入力："
+
+#. Key:	72CF6DA64E3B30A6A3C77D99758147D8
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock_2.Text
+msgctxt ",72CF6DA64E3B30A6A3C77D99758147D8"
+msgid "Auto-wrap"
+msgstr "自動折り返し"
+
+#. Key:	730148C442EC324E7F3ED6854F0416A0
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_ChangesSaved.BP_ChangesSaved_C:WidgetTree.TextBlock_139.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_ChangesSaved.BP_ChangesSaved_C:WidgetTree.TextBlock_139.Text
+msgctxt ",730148C442EC324E7F3ED6854F0416A0"
+msgid "Back"
+msgstr "戻る"
+
+#. Key:	731CCF8C4BCA9E76EB75C5AF508ED16C
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.SelectedElementLabel.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.SelectedElementLabel.Text
+msgctxt ",731CCF8C4BCA9E76EB75C5AF508ED16C"
+msgid "Selected Element:"
+msgstr "選択した要素："
+
+#. Key:	75C865E84C373D0C8523F899D53B9A9A
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_230.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_230.Text
+msgctxt ",75C865E84C373D0C8523F899D53B9A9A"
+msgid "720"
+msgstr ""
+
+#. Key:	7832F7BC4EC5ABA7B56E47844C08580A
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.ProjectNameTextBox.HintText
+#: /Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.ProjectNameTextBox.HintText
+msgctxt ",7832F7BC4EC5ABA7B56E47844C08580A"
+msgid "MyNewProjectName"
+msgstr ""
+
+#. Key:	7B1C21AC44351CD516DB5F955C3A1D2B
+#. SourceLocation:	/Game/UI/MainMenu/BP_LandingScreen.BP_LandingScreen_C:WidgetTree.TextBlock_129.Text
+#: /Game/UI/MainMenu/BP_LandingScreen.BP_LandingScreen_C:WidgetTree.TextBlock_129.Text
+msgctxt ",7B1C21AC44351CD516DB5F955C3A1D2B"
+msgid "Load Project"
+msgstr "プロジェクトをロード"
+
+#. Key:	7B801E6745F11C0F18FE69941C1ED03B
+#. SourceLocation:	/Game/UI/ProjectHome/BP_BatchCheckColumnSelector.BP_BatchCheckColumnSelector_C:WidgetTree.TextBlock_578.Text
+#: /Game/UI/ProjectHome/BP_BatchCheckColumnSelector.BP_BatchCheckColumnSelector_C:WidgetTree.TextBlock_578.Text
+msgctxt ",7B801E6745F11C0F18FE69941C1ED03B"
+msgid "Confirm"
+msgstr "確認"
+
+#. Key:	7DB389274954A94BC733038DA9EECF4E
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_ChangesSaved.BP_ChangesSaved_C:WidgetTree.TextBlock_42.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_ChangesSaved.BP_ChangesSaved_C:WidgetTree.TextBlock_42.Text
+msgctxt ",7DB389274954A94BC733038DA9EECF4E"
+msgid "Changes Saved!"
+msgstr "変更が保存されました！"
+
+#. Key:	7E3C88674D32E0F15D614199D3DA874D
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_FontEntry.BP_NewProject_FontEntry_C:WidgetTree.TextBlock_98.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_FontEntry.BP_NewProject_FontEntry_C:WidgetTree.TextBlock_98.Text
+msgctxt ",7E3C88674D32E0F15D614199D3DA874D"
+msgid "Edit Font Location"
+msgstr "フォントの場所を編集"
+
+#. Key:	8289AA194C95E7DDE1D0559E66F64A52
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_TagsSingleEntry.BP_TagsSingleEntry_C:WidgetTree.InputTagTextBox.HintText
+#: /Game/UI/ProjectHome/ManageSettings/BP_TagsSingleEntry.BP_TagsSingleEntry_C:WidgetTree.InputTagTextBox.HintText
+msgctxt ",8289AA194C95E7DDE1D0559E66F64A52"
+msgid "Input new tag"
+msgstr "新規タグを入力"
+
+#. Key:	847A07B94D9B84A21D10179F08C21C75
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.NumLinesTextInput.HintText
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.NumLinesTextInput.HintText
+msgctxt ",847A07B94D9B84A21D10179F08C21C75"
+msgid "Input num lines"
+msgstr "行数を入力："
+
+#. Key:	84E03F8E491B244772236FBF6D9A3C8B
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UISingleEntry.BP_UISingleEntry_C:WidgetTree.ElementNameTextBox.HintText
+#: /Game/UI/ProjectHome/ManageSettings/BP_UISingleEntry.BP_UISingleEntry_C:WidgetTree.ElementNameTextBox.HintText
+msgctxt ",84E03F8E491B244772236FBF6D9A3C8B"
+msgid "Input element name"
+msgstr "要素名を入力"
+
+#. Key:	8D671CB34EA08802BF04988F0CE0BC25
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.SaveChangedTextBlock.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.SaveChangedTextBlock.Text
+msgctxt ",8D671CB34EA08802BF04988F0CE0BC25"
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#. Key:	9269F2E34D618DC4CD6C8D92E53729D0
+#. SourceLocation:	/Game/UI/MenuDropdowns/BP_LiveEditorMenuButtons.BP_LiveEditorMenuButtons_C:WidgetTree.ChangeProjectText.Text
+#: /Game/UI/MenuDropdowns/BP_LiveEditorMenuButtons.BP_LiveEditorMenuButtons_C:WidgetTree.ChangeProjectText.Text
+msgctxt ",9269F2E34D618DC4CD6C8D92E53729D0"
+msgid "Change Project"
+msgstr "プロジェクトの変更"
+
+#. Key:	9461905A4A7D8DC7D93D6BB4C666D75F
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.TextBlock_386.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.TextBlock_386.Text
+msgctxt ",9461905A4A7D8DC7D93D6BB4C666D75F"
+msgid "Change project name:"
+msgstr "プロジェクト名を変更："
+
+#. Key:	992D74D74A91F95B32D601B8EC651C9E
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:WidgetTree.ProjectNameTextInput.HintText
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:WidgetTree.ProjectNameTextInput.HintText
+msgctxt ",992D74D74A91F95B32D601B8EC651C9E"
+msgid "Type project name here"
+msgstr "ここにプロジェクト名を入力"
+
+#. Key:	9A439C6647D73FD5FC0D4B8F097BFEC8
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_TagsSingleEntry.BP_TagsSingleEntry_C:WidgetTree.InputLongestStringTextBox.HintText
+#: /Game/UI/ProjectHome/ManageSettings/BP_TagsSingleEntry.BP_TagsSingleEntry_C:WidgetTree.InputLongestStringTextBox.HintText
+msgctxt ",9A439C6647D73FD5FC0D4B8F097BFEC8"
+msgid "Input text replacement (can be empty)"
+msgstr "置換テキストを入力（空でも可）"
+
+#. Key:	9B760E4C474A6E958399D380B6CC07C0
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_Tags_ManualEditWidget.BP_Tags_ManualEditWidget_C:WidgetTree.TextBlock_89.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_Tags_ManualEditWidget.BP_Tags_ManualEditWidget_C:WidgetTree.TextBlock_89.Text
+msgctxt ",9B760E4C474A6E958399D380B6CC07C0"
+msgid "Edit Tags"
+msgstr "タグを編集"
+
+#. Key:	9C949C594144BD454DBF3EA895AEB0D8
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_330.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_330.Text
+msgctxt ",9C949C594144BD454DBF3EA895AEB0D8"
+msgid "4K"
+msgstr ""
+
+#. Key:	9EAC99FD4EA9E5EC18FDE7B3EFC070FA
+#. SourceLocation:	/Game/UI/ProjectHome/BP_BatchCheckerSelectorWidgets.BP_BatchCheckerSelectorWidgets_C:WidgetTree.TextBlock_969.Text
+#: /Game/UI/ProjectHome/BP_BatchCheckerSelectorWidgets.BP_BatchCheckerSelectorWidgets_C:WidgetTree.TextBlock_969.Text
+msgctxt ",9EAC99FD4EA9E5EC18FDE7B3EFC070FA"
+msgid "Confirm"
+msgstr "確認"
+
+#. Key:	9F7CD760492BB80C6CA51F813735EF62
+#. SourceLocation:	/Game/UI/MenuDropdowns/BP_ChangeCreateBUttons.BP_ChangeCreateButtons_C:WidgetTree.ChangeProjectText.Text
+#: /Game/UI/MenuDropdowns/BP_ChangeCreateBUttons.BP_ChangeCreateButtons_C:WidgetTree.ChangeProjectText.Text
+msgctxt ",9F7CD760492BB80C6CA51F813735EF62"
+msgid "Change Project"
+msgstr "プロジェクトの変更"
+
+#. Key:	A346F55C43356930F5984BB913CEE6A7
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.SearchTextBox.HintText
+#: /Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.SearchTextBox.HintText
+msgctxt ",A346F55C43356930F5984BB913CEE6A7"
+msgid "Search Elements here"
+msgstr "ここで要素を検索"
+
+#. Key:	A3987B6549E404BAEBD699954534D52B
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_Tags_ListOfEntries.BP_Tags_ListOfEntries_C:WidgetTree.TextBlock_448.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_Tags_ListOfEntries.BP_Tags_ListOfEntries_C:WidgetTree.TextBlock_448.Text
+msgctxt ",A3987B6549E404BAEBD699954534D52B"
+msgid "Tag"
+msgstr "タグ"
+
+#. Key:	A77D260A4A31513FFB290E892FE2E96C
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UI_ManualEditWidget.BP_UI_ManualEditWidget_C:WidgetTree.TextBlock_89.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_UI_ManualEditWidget.BP_UI_ManualEditWidget_C:WidgetTree.TextBlock_89.Text
+msgctxt ",A77D260A4A31513FFB290E892FE2E96C"
+msgid "Edit UI Settings"
+msgstr "UI 設定を編集"
+
+#. Key:	A7C60A8B4BEBEDD914C234B71CC48BA7
+#. SourceLocation:	/Game/UI/MenuDropdowns/BP_ChangeCreateBUttons.BP_ChangeCreateButtons_C:WidgetTree.CreateNewProjectText.Text
+#: /Game/UI/MenuDropdowns/BP_ChangeCreateBUttons.BP_ChangeCreateButtons_C:WidgetTree.CreateNewProjectText.Text
+msgctxt ",A7C60A8B4BEBEDD914C234B71CC48BA7"
+msgid "Create New Project"
+msgstr "新規プロジェクトを作成"
+
+#. Key:	A7CCEDFE4DE4F9AD7B6DE081BE33D52A
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock_4.Text
+msgctxt ",A7CCEDFE4DE4F9AD7B6DE081BE33D52A"
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#. Key:	AC0B354D4270E00086DD90B2D7DE71E5
+#. SourceLocation:	/Game/UI/MenuDropdowns/BP_LiveEditorMenuButtons.BP_LiveEditorMenuButtons_C:WidgetTree.CreateNewProjectText.Text
+#: /Game/UI/MenuDropdowns/BP_LiveEditorMenuButtons.BP_LiveEditorMenuButtons_C:WidgetTree.CreateNewProjectText.Text
+msgctxt ",AC0B354D4270E00086DD90B2D7DE71E5"
+msgid "Create New Project"
+msgstr "新規プロジェクトを作成"
+
+#. Key:	AF38FCFA4563B3E41FEBDDB759F4D57C
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.ElementNameTextBox.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.ElementNameTextBox.Text
+msgctxt ",AF38FCFA4563B3E41FEBDDB759F4D57C"
+msgid "{Insert}"
+msgstr ""
+
+#. Key:	B077F45F40BA552265C3D5A819BB385B
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepDone.BP_NewProject_StepDone_C:WidgetTree.ProjectNameText.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepDone.BP_NewProject_StepDone_C:WidgetTree.ProjectNameText.Text
+msgctxt ",B077F45F40BA552265C3D5A819BB385B"
+msgid "[Insert Project name here] created."
+msgstr ""
+
+#. Key:	B094206F4A1D55EE521ADEB862B91F0F
+#. SourceLocation:	/Game/UI/MainMenu/BP_ListProjectsWindow.BP_ListProjectsWindow_C:WidgetTree.LoadProjectText.Text
+#: /Game/UI/MainMenu/BP_ListProjectsWindow.BP_ListProjectsWindow_C:WidgetTree.LoadProjectText.Text
+msgctxt ",B094206F4A1D55EE521ADEB862B91F0F"
+msgid "Load Project..."
+msgstr "プロジェクトをロード"
+
+#. Key:	B0A2BBD342E5D4798BC7D3B0AC83F4F4
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_SettingsScroll.BP_SettingsScroll_C:WidgetTree.SettingsLabel.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_SettingsScroll.BP_SettingsScroll_C:WidgetTree.SettingsLabel.Text
+msgctxt ",B0A2BBD342E5D4798BC7D3B0AC83F4F4"
+msgid "{Insert Settings label}"
+msgstr ""
+
+#. Key:	B427783043B253BBCB9490A9089B2590
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_2874.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_2874.Text
+msgctxt ",B427783043B253BBCB9490A9089B2590"
+msgid "/"
+msgstr ""
+
+#. Key:	B5F2919A4F50D6E48943F0800DB90D83
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:WidgetTree.ExistsFlagTextBlock.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepA.BP_NewProject_StepA_C:WidgetTree.ExistsFlagTextBlock.Text
+msgctxt ",B5F2919A4F50D6E48943F0800DB90D83"
+msgid "Project name already exists!"
+msgstr "すでに使用されているプロジェクト名です！"
+
+#. Key:	B740186C4B49A3E650CD2E87DE02990E
+#. SourceLocation:	/Game/UI/ProjectHome/BP_BatchCheckColumnSelector.BP_BatchCheckColumnSelector_C:WidgetTree.TextIDColumnTextBlock.Text
+#: /Game/UI/ProjectHome/BP_BatchCheckColumnSelector.BP_BatchCheckColumnSelector_C:WidgetTree.TextIDColumnTextBlock.Text
+msgctxt ",B740186C4B49A3E650CD2E87DE02990E"
+msgid "Select column containing the text ID"
+msgstr "テキストIDを含む列を選択"
+
+#. Key:	B7ED3F5F49D5BC72F793F49A38D1582D
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepC.BP_NewProject_StepC_C:WidgetTree.TextBlock_103.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepC.BP_NewProject_StepC_C:WidgetTree.TextBlock_103.Text
+msgctxt ",B7ED3F5F49D5BC72F793F49A38D1582D"
+msgid "Browse"
+msgstr "ブラウズ"
+
+#. Key:	BA79B6714793DB15B9F23CBA912FB2D1
+#. SourceLocation:	/Game/UI/ProjectHome/BP_ProjectHome.BP_ProjectHome_C:WidgetTree.ManageProjectText.Text
+#: /Game/UI/ProjectHome/BP_ProjectHome.BP_ProjectHome_C:WidgetTree.ManageProjectText.Text
+msgctxt ",BA79B6714793DB15B9F23CBA912FB2D1"
+msgid "Manage Project Settings"
+msgstr "プロジェクト設定を管理"
+
+#. Key:	C122DB734F2AB666B68F8198E97BAC01
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_3.Text
+msgctxt ",C122DB734F2AB666B68F8198E97BAC01"
+msgid "Can use tags:"
+msgstr "タグ使用可能："
+
+#. Key:	C1ABF41D4CF711264B8E6EB1EA26D89A
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.ElementNameTextBox2.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.ElementNameTextBox2.Text
+msgctxt ",C1ABF41D4CF711264B8E6EB1EA26D89A"
+msgid "TEST_ELEMENT_NAME"
+msgstr ""
+
+#. Key:	C31172764B2650EBA29A7BB60C3E041B
+#. SourceLocation:	/Game/UI/ProjectHome/BP_ProjectHome.BP_ProjectHome_C:WidgetTree.UIWarning.Text
+#: /Game/UI/ProjectHome/BP_ProjectHome.BP_ProjectHome_C:WidgetTree.UIWarning.Text
+msgctxt ",C31172764B2650EBA29A7BB60C3E041B"
+msgid "Warning: No uploaded UI data detected"
+msgstr "警告：アップロードした UI データは検出されませんでした"
+
+#. Key:	C63221B340E35AB1867274BBD3ACA0E8
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_UI_ListOfEntries.BP_UI_ListOfEntries_C:WidgetTree.TextBlock.Text
+msgctxt ",C63221B340E35AB1867274BBD3ACA0E8"
+msgid "Lines"
+msgstr "行"
+
+#. Key:	C8CEABBA4560965666797BB039381E7E
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:AdjustTextboxColor [Script Bytecode]
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:AdjustTextboxColor [Script Bytecode]
+msgctxt ",C8CEABBA4560965666797BB039381E7E"
+msgid "{0}/{1}"
+msgstr ""
+
+#. Key:	D4BCEA294643300AC66402A585912BD2
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_584.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_584.Text
+msgctxt ",D4BCEA294643300AC66402A585912BD2"
+msgid "Text Input"
+msgstr "テキスト入力"
+
+#. Key:	D52985654AA6345CD1490BAFD90A671F
+#. SourceLocation:	/Game/UI/MenuDropdowns/BP_BatchMenuButtons.BP_BatchMenuButtons_C:WidgetTree.ProjectHomeTextBlock.Text
+#: /Game/UI/MenuDropdowns/BP_BatchMenuButtons.BP_BatchMenuButtons_C:WidgetTree.ProjectHomeTextBlock.Text
+msgctxt ",D52985654AA6345CD1490BAFD90A671F"
+msgid "Project Home"
+msgstr "プロジェクトホーム"
+
+#. Key:	D87CCA1E48BFCEBEF09D5EAE6CB1C24E
+#. SourceLocation:	/Game/UI/BatchChecker/BP_BatchChecker.BP_BatchChecker_C:WidgetTree.TextBlock_546.Text
+#: /Game/UI/BatchChecker/BP_BatchChecker.BP_BatchChecker_C:WidgetTree.TextBlock_546.Text
+msgctxt ",D87CCA1E48BFCEBEF09D5EAE6CB1C24E"
+msgid "Show overflows only"
+msgstr "はみ出た部分のみを表示"
+
+#. Key:	D90CFB384F1A8A73B7BADC810FAB470B
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.TextBlock_71.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_ManageSettingsHome.BP_ManageSettingsHome_C:WidgetTree.TextBlock_71.Text
+msgctxt ",D90CFB384F1A8A73B7BADC810FAB470B"
+msgid "Upload Font File"
+msgstr "フォントファイルをアップロード"
+
+#. Key:	E263CA82485E81E5E033108AD86F4F62
+#. SourceLocation:	/Game/UI/MenuDropdowns/BP_LiveEditorMenuButtons.BP_LiveEditorMenuButtons_C:WidgetTree.TextBlock_80.Text
+#: /Game/UI/MenuDropdowns/BP_LiveEditorMenuButtons.BP_LiveEditorMenuButtons_C:WidgetTree.TextBlock_80.Text
+msgctxt ",E263CA82485E81E5E033108AD86F4F62"
+msgid "Project Home"
+msgstr "プロジェクトホーム"
+
+#. Key:	E2A54BC14E9589E9F503B3A4A0FDB485
+#. SourceLocation:	/Game/UI/MainMenu/BP_LandingScreen.BP_LandingScreen_C:WidgetTree.TextBlock_289.Text
+#: /Game/UI/MainMenu/BP_LandingScreen.BP_LandingScreen_C:WidgetTree.TextBlock_289.Text
+msgctxt ",E2A54BC14E9589E9F503B3A4A0FDB485"
+msgid "New Project"
+msgstr "新規プロジェクト"
+
+#. Key:	E6F2B9E24BD82E11DE4975BB7002FD2E
+#. SourceLocation:	/Game/UI/ProjectHome/ManageSettings/BP_SettingsScroll.BP_SettingsScroll_C:WidgetTree.TextBlock_347.Text
+#: /Game/UI/ProjectHome/ManageSettings/BP_SettingsScroll.BP_SettingsScroll_C:WidgetTree.TextBlock_347.Text
+msgctxt ",E6F2B9E24BD82E11DE4975BB7002FD2E"
+msgid "Uploaded files:"
+msgstr "アップロードしたファイル："
+
+#. Key:	E7C34237475F4A4FEBA71BAF6D24EB80
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepB.BP_NewProject_StepB_C:WidgetTree.TextBlock_103.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepB.BP_NewProject_StepB_C:WidgetTree.TextBlock_103.Text
+msgctxt ",E7C34237475F4A4FEBA71BAF6D24EB80"
+msgid "Browse"
+msgstr "ブラウズ"
+
+#. Key:	E7D31A6844B72A69272298BB6696B761
+#. SourceLocation:	/Game/UI/ProjectHome/BP_BatchCheckerSelectorWidgets.BP_BatchCheckerSelectorWidgets_C:WidgetTree.TextBlock_124.Text
+#: /Game/UI/ProjectHome/BP_BatchCheckerSelectorWidgets.BP_BatchCheckerSelectorWidgets_C:WidgetTree.TextBlock_124.Text
+msgctxt ",E7D31A6844B72A69272298BB6696B761"
+msgid "Select file to check for overflows:"
+msgstr "はみ出しをチェックするファイルを選択："
+
+#. Key:	E9CDDEB84B3CEB5328AD75A4E602BA0D
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_3208.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_3208.Text
+msgctxt ",E9CDDEB84B3CEB5328AD75A4E602BA0D"
+msgid "No. of Lines:"
+msgstr "行数を入力："
+
+#. Key:	ED5FCC4D42A1DAC5FB75088F2BCC214A
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProject_StepDone.BP_NewProject_StepDone_C:WidgetTree.AllDoneText.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProject_StepDone.BP_NewProject_StepDone_C:WidgetTree.AllDoneText.Text
+msgctxt ",ED5FCC4D42A1DAC5FB75088F2BCC214A"
+msgid "All done!"
+msgstr "すべて完了！"
+
+#. Key:	F060573E425D1040A6F0B8BC0EB496D8
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_121.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.TextBlock_121.Text
+msgctxt ",F060573E425D1040A6F0B8BC0EB496D8"
+msgid "1080"
+msgstr ""
+
+#. Key:	F07D41CB4226DAEC91F934B0A7FCBA37
+#. SourceLocation:	/Game/UI/MenuDropdowns/BP_BatchMenuButtons.BP_BatchMenuButtons_C:WidgetTree.ChangeProjectText.Text
+#: /Game/UI/MenuDropdowns/BP_BatchMenuButtons.BP_BatchMenuButtons_C:WidgetTree.ChangeProjectText.Text
+msgctxt ",F07D41CB4226DAEC91F934B0A7FCBA37"
+msgid "Change Project"
+msgstr "プロジェクトの変更"
+
+#. Key:	F134498F4AB88F8860E0CF852D5E3E53
+#. SourceLocation:	/Game/UI/ProjectHome/NewProject/BP_NewProjectWidget.BP_NewProjectWidget_C:WidgetTree.Step_A_Text.Text
+#: /Game/UI/ProjectHome/NewProject/BP_NewProjectWidget.BP_NewProjectWidget_C:WidgetTree.Step_A_Text.Text
+msgctxt ",F134498F4AB88F8860E0CF852D5E3E53"
+msgid "Project Name"
+msgstr "プロジェクト名"
+
+#. Key:	F4D73A7041D92931BC8BE3B456387B0D
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.UIElementSearchBox.HintText
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.UIElementSearchBox.HintText
+msgctxt ",F4D73A7041D92931BC8BE3B456387B0D"
+msgid "Search elements by name"
+msgstr "名前で要素を検索："
+
+#. Key:	F7993794495FD372D5D75DB2B51D0F57
+#. SourceLocation:	/Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.PixelsUsedTextBlock.Text
+#: /Game/UI/LiveEditor/BP_ProjectLiveEditor.BP_ProjectLiveEditor_C:WidgetTree.PixelsUsedTextBlock.Text
+msgctxt ",F7993794495FD372D5D75DB2B51D0F57"
+msgid "0"
+msgstr ""
+
+#. Key:	FCA555E748FB8219C1B8459697A9B33B
+#. SourceLocation:	/Game/UI/MenuDropdowns/BP_BatchMenuButtons.BP_BatchMenuButtons_C:WidgetTree.CreateNewProjectText.Text
+#: /Game/UI/MenuDropdowns/BP_BatchMenuButtons.BP_BatchMenuButtons_C:WidgetTree.CreateNewProjectText.Text
+msgctxt ",FCA555E748FB8219C1B8459697A9B33B"
+msgid "Check Another File"
+msgstr "別のファイルをチェック"
+
